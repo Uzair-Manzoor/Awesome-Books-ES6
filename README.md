@@ -29,7 +29,7 @@
 # 📖 Awesome Books <a name="about-project"></a>
 
 
-**[Awesome Books]** is a small project to help master basic javascript concepts eg classes objects, arrays, and dom manipulation
+**[Awesome Books]** Is the project in which Awesome books app code is restructured. The goal is to make it more organized by using modules while practicing the ES6 syntax.
 
 
 ## 🛠 Built With <a name="built-with"></a>
