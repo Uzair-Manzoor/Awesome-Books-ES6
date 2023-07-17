@@ -66,7 +66,7 @@
 
 Coming Soon
 
-- [Live Demo Link](https://i.imgur.com/wKBqg7q.gif)
+- [Live Demo Link](https://thumbs.gfycat.com/OccasionalParallelKoalabear-max-1mb.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,9 +164,9 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Afsheen Kiran**
+👤 **TBA**
 
-- GitHub: [@githubhandle](https://github.com/Afsheen96)
+- GitHub: [@githubhandle](https://github.com/)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
