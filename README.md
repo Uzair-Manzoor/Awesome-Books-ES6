@@ -29,7 +29,7 @@
 # 📖 Awesome Books <a name="about-project"></a>
 
 
-**[Awesome Books]** is a small project to help master basic javascript concepts eg classes objects, arrays, and dom manipulation
+**[Awesome Books]** Is the project in which Awesome books app code is restructured. The goal is to make it more organized by using modules while practicing the ES6 syntax.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -68,6 +68,10 @@ Coming Soon
 
 - [Live Demo Link](https://thumbs.gfycat.com/OccasionalParallelKoalabear-max-1mb.gif)
 
+![image](resources/image/app-screenshot-2.png)
+![image](resources/image/app-screenshot-1.png)
+![image](resources/image/app-screenshot-3.png)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -96,7 +100,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  https://github.com/Uzair-Manzoor/Awesome-books.git
+  https://github.com/Uzair-Manzoor/Awesome-Books-ES6.git
 ```
 -
 
@@ -161,12 +165,6 @@ Example:
 👤 **Uzair Manzoor**
 
 - GitHub: [@githubhandle](https://github.com/Uzair-Manzoor)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **TBA**
-
-- GitHub: [@githubhandle](https://github.com/)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
