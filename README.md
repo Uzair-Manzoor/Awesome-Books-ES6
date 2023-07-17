@@ -64,8 +64,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Coming Soon
-
 - [Live Demo Link](https://thumbs.gfycat.com/OccasionalParallelKoalabear-max-1mb.gif)
 
 ![image](resources/image/app-screenshot-2.png)
