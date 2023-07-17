@@ -100,7 +100,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  https://github.com/Uzair-Manzoor/Awesome-books.git
+  https://github.com/Uzair-Manzoor/Awesome-Books-ES6.git
 ```
 -
 
@@ -165,12 +165,6 @@ Example:
 👤 **Uzair Manzoor**
 
 - GitHub: [@githubhandle](https://github.com/Uzair-Manzoor)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **TBA**
-
-- GitHub: [@githubhandle](https://github.com/)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
