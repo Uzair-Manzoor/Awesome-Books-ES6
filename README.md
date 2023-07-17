@@ -164,9 +164,9 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Afsheen Kiran**
+👤 **TBA**
 
-- GitHub: [@githubhandle](https://github.com/Afsheen96)
+- GitHub: [@githubhandle](https://github.com/)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
