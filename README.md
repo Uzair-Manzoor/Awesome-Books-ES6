@@ -64,7 +64,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://thumbs.gfycat.com/OccasionalParallelKoalabear-max-1mb.gif)
+- [Live Demo Link](https://uzair-manzoor.github.io/Awesome-Books-ES6/)
 
 ![image](resources/image/app-screenshot-2.png)
 ![image](resources/image/app-screenshot-1.png)
