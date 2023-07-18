@@ -1,0 +1,245 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none !important;
+  outline: none;
+  appearance: none;
+  font-family: cursive, sans-serif;
+}
+
+body {
+  font-size: 14px;
+  background: #c0c0c0;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  padding: 0.2rem;
+  justify-content: center;
+}
+
+h1 {
+  color: black;
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: -0.0525rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+h2 {
+  color: black;
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: -0.0225rem;
+  padding: 0.2rem;
+}
+
+h3 {
+  color: black;
+  font-size: 1.2rem;
+  font-weight: 600;
+  letter-spacing: 0.0025rem;
+}
+
+.copyRights {
+  color: black;
+  font-size: 1rem;
+  letter-spacing: 0.0125rem;
+  display: block;
+  border: 1.5px solid #595959;
+  padding: 0.5rem;
+  margin: 0.3rem;
+}
+
+.copyRights a {
+  color: blue;
+}
+
+.navBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0.3rem;
+  border: 2px solid #595959;
+  padding: 0.5rem;
+}
+
+.navBar h1 {
+  color: black;
+  font-size: 2rem;
+  font-weight: 800;
+  letter-spacing: -0.0525rem;
+  align-self: flex-start;
+  margin-left: 1.5rem;
+}
+
+.navBar div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 1rem;
+  gap: 0.5rem;
+}
+
+.navBar div a {
+  color: black;
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: -0.0225rem;
+}
+
+.dayDate {
+  color: black;
+  font-size: 1rem;
+  letter-spacing: 0.0125rem;
+  font-weight: 600;
+  align-self: flex-end;
+  margin-right: 0.4rem;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  margin-bottom: 4rem;
+  margin-top: 0.5rem;
+  justify-content: stretch;
+  align-items: center;
+  color: #595959;
+  border-radius: 5px;
+  padding: 0.1rem;
+  gap: 0.5rem;
+}
+
+#container h3 {
+  margin-top: 3rem;
+}
+
+#container ul li {
+  color: black;
+  font-size: 1rem;
+  letter-spacing: 0.0125rem;
+}
+
+.bookForm {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.pop-win {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+  padding: 0.5rem;
+  background: #f2f2f2;
+  border-radius: 6px;
+}
+
+.msg-win {
+  align-self: center;
+  color: #595959;
+}
+
+input {
+  padding: 0.6rem;
+  border: 1px solid #595959;
+  border-radius: 3px;
+  color: black;
+  font-size: 1rem;
+  letter-spacing: 0.0125rem;
+}
+
+.button {
+  transition: all 0.5s;
+  cursor: pointer;
+  background: #7f7f7f;
+  border: 1px solid #595959;
+  box-shadow: 2px 2px 4px 0 rgba(59, 59, 59, 0.25);
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.001em;
+  word-spacing: normal;
+  transition-duration: 0.4s;
+  align-self: flex-start;
+  padding: 0.6rem;
+  width: 4.5rem;
+  height: 2.5rem;
+}
+
+.newBook {
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+  align-items: stretch;
+  color: black;
+  font-size: 1rem;
+  letter-spacing: 0.0125rem;
+  background: #f2f2f2;
+  border-radius: 4px;
+  padding: 0.2rem;
+  gap: 0.2rem;
+  width: 60vw;
+}
+
+.bookPart {
+  flex: 5;
+  display: flex;
+  flex-direction: row;
+  padding: 0.2rem;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid #595959;
+  border-radius: 4px;
+}
+
+.remove {
+  flex: 1;
+  transition: all 0.5s;
+  cursor: pointer;
+  background: #7f7f7f;
+  border: 1px solid #595959;
+  box-shadow: 2px 2px 4px 0 rgba(59, 59, 59, 0.25);
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 0.001em;
+  word-spacing: normal;
+  transition-duration: 0.4s;
+  align-self: flex-end;
+  padding: 0.3rem;
+}
+
+.hline {
+  border-bottom: 1px solid #595959;
+  text-align: center;
+}
+
+.hide {
+  display: none !important;
+}
+
+footer {
+  position: relative;
+  top: auto;
+  bottom: 0.5rem;
+  width: 100%;
+}
+/*# sourceMappingURL=index.css.map */
