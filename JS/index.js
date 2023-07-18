@@ -1,14 +1,7 @@
-import displayDate from './modules/date&time.js';
+import { DateTime } from './modules/luxon.js';
 import {
   addBook, contact, listpage,
 } from './modules/navbar.js';
-
-const onLoading = () => {
-  displayDate();
-  setInterval(displayDate, 1000);
-  listpage();
-};
-onLoading();
 
 const links = document.querySelectorAll('.link');
 links.forEach((link) => {
@@ -25,3 +18,7 @@ links.forEach((link) => {
     return link;
   });
 });
+
+const now = DateTime.now();
+const date = document.querySelector('.dayDate');
+date.textContent = now.toLocaleString(DateTime.DATETIME_MED);
